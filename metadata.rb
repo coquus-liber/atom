@@ -1,0 +1,11 @@
+name 'atom'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'All Rights Reserved'
+description 'Installs/Configures atom'
+long_description 'Installs/Configures atom'
+version '0.1.0'
+chef_version '>= 13.0'
+issues_url 'https://github.com/coquus-liber/atom/issues'
+source_url 'https://github.com/coquus-liber/atom'
+
